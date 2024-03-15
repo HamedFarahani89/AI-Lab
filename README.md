@@ -7,3 +7,7 @@ and contribute to the collective intelligence of the AI community.
 Logistic Regression Optimization perspective vs. sklearn notebook:
 
 In this notebook, I aimed to provide an example of implementing loss and cost functions. Additionally, I generated a binary class dataset and performed classification using gradient descent through both iterative (loop-based) and vectorized implementations. Finally, I compared the results with the implementation provided by the scikit-learn library.
+
+ Exploring MNIST with Keras Deep Nets and CNNs notebook:
+
+ This notebook is inspired by the "A high-bias, low-variance introduction to Machine Learning for physicists" paper, which offers an excellent tutorial available on their GitHub repository: [mlreview_notebooks](https://github.com/drckf/mlreview_notebooks/tree/master).
