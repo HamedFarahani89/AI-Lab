@@ -17,3 +17,6 @@ In this notebook, I aimed to provide an example of implementing loss and cost fu
 
 This notebook summarizes my learning journey from TensorFlow's tutorial series. Beginning with a single-layer, single-neuron regression model, I progressed to constructing deep neural networks for MNIST and Fashion MNIST datasets.
 
+### Autoencoders anomaly detection ECG notebook:
+
+In this notebook, I implemented Autoencoders for anomaly detection on the ECG dataset using TensorFlow, following the example provided in the TensorFlow documentation: [Autoencoder Tutorial](https://www.tensorflow.org/tutorials/generative/autoencoder). The approach involves training the autoencoder with normal ECG data. Subsequently, when the model predicts an unseen data point with a significant error, it signifies an anomaly.
