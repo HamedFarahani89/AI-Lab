@@ -4,7 +4,7 @@ Explore algorithms, dive into neural networks, and witness the magic of machine 
 Join me in the exploration of AI technologies, share insights, 
 and contribute to the collective intelligence of the AI community. 
 
-### Numpy array
+##### Numpy array
 This Python script demonstrates basic array operations using NumPy to understand array shapes.
 
 ### Logistic Regression Optimization perspective vs. sklearn notebook:
