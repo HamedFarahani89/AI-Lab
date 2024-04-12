@@ -30,3 +30,4 @@ In this repository, you'll find codes with 'DUDL' that gist the of the "A deep u
 
 Notebooks :
 - Getting_started_pytorch_DUDL
+- GradientDescent_2D
