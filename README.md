@@ -24,10 +24,10 @@ This notebook summarizes my learning journey from TensorFlow's tutorial series. 
 
 In this notebook, I implemented Autoencoders for anomaly detection on the ECG dataset using TensorFlow, following the example provided in the TensorFlow documentation: [Autoencoder Tutorial](https://www.tensorflow.org/tutorials/generative/autoencoder). The approach involves training the autoencoder with normal ECG data. Subsequently, when the model predicts an unseen data point with a significant error, it signifies an anomaly.
 
-### A deep understanding of deep learning (with Python intro) course
+### A deep understanding of deep learning course - using Pytorch
 
 In this repository, you'll find codes with 'DUDL' that gist the of the "A deep understanding of deep learning (with Python intro)" course and its exercises. This comprehensive course is designed to empower learners with a mastery of deep learning in PyTorch through an experimental and scientific approach. this course, available on Udemy https://www.udemy.com/course/deeplearning_x/?couponCode=ST8MT40924
 
 Notebooks :
 - Getting_started_pytorch_DUDL
-- GradientDescent_2D
+- GradientDescent_2D_DUDL
