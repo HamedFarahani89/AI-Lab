@@ -31,4 +31,4 @@ In this repository, you'll find codes with 'DUDL' that gist the of the "A deep u
 Notebooks :
 - Getting_started_pytorch_DUDL
 - GradientDescent_2D_DUDL
-- ANN_regression_DUDL : Implement a ANN block for regression, utilizing MSE as the loss function and SGD for optimization. Record the loss at each epoch and calculate the correlation coefficient for the final predictions.
+- ANN_regression_DUDL : Implement a basic ANN block for regression, utilizing MSE as the loss function and SGD for optimization. Record the loss at each epoch and calculate the correlation coefficient for the final predictions.
