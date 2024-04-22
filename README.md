@@ -32,3 +32,4 @@ Notebooks :
 - Getting_started_pytorch_DUDL
 - GradientDescent_2D_DUDL
 - ANN_regression_DUDL : Implement a basic ANN block for regression, utilizing MSE as the loss function and SGD for optimization. Record the loss at each epoch and calculate the correlation coefficient for the final predictions.
+- ANN_BinaryClassification_LearningRateComarison_DUDL : Implement a basic ANN block for Binary Classification, utilizing BCEWithLogitsLoss as the loss function and SGD for optimization. Record the loss at each epoch and calculate accuracy while chaning Learning Rate.
