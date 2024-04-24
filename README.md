@@ -33,4 +33,5 @@ Notebooks :
 - GradientDescent_2D_DUDL
 - ANN_regression_DUDL : Implement a basic ANN block for regression, utilizing MSE as the loss function and SGD for optimization. Record the loss at each epoch and calculate the correlation coefficient for the final predictions.
 - ANN_BinaryClassification_LearningRateComarison_DUDL : Implement a basic ANN block for Binary Classification, utilizing BCEWithLogitsLoss as the loss function and SGD for optimization. Record the loss at each epoch and calculate accuracy while chaning Learning Rate.
-- MultilayerANN_iris_DUDL: Implement a Multilayer ANN for multi classification, utilizing CrossEntropyLoss as the loss function and SGD for optimization. 
+- MultilayerANN_iris_DUDL: Implement a Multilayer ANN for multi classification, utilizing CrossEntropyLoss as the loss function and SGD for optimization.
+- Class_ANN_DUDL : First, an introduction to Object-Oriented Programming (OOP) is provided, followed by the definition of a class designed to make Artificial Neural Networks (ANNs) more flexible compared to sequential models. This is then illustrated with an example.
