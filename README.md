@@ -36,3 +36,5 @@ Notebooks :
 - MultilayerANN_iris_DUDL: Implement a Multilayer ANN for multi classification, utilizing CrossEntropyLoss as the loss function and SGD for optimization.
 - Class_ANN_DUDL : First, an introduction to Object-Oriented Programming (OOP) is provided, followed by the definition of a class designed to make Artificial Neural Networks (ANNs) more flexible compared to sequential models. This is then illustrated with an example.
 - SimpleRNN_DUDL: This notebook is designed to help you understand the architecture of RNNs and to get started working with them. It includes an example of an alternating sequence for analysis and experimentation.
+- LSTTM_GRU_DUDL : In this notebook, we explore using Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) networks to predict a sequence of random data generated from a specific mathematical formula. Here's the formula used to create the data: data=torch.rand(N)×sin(torch.rand(1)×time)+cos(torch.rand(1)×time)
+
