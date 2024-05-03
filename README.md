@@ -29,6 +29,7 @@ In this notebook, I implemented Autoencoders for anomaly detection on the ECG da
 In this repository, you'll find codes with 'DUDL' that gist the of the "A deep understanding of deep learning (with Python intro)" course and its exercises. This comprehensive course is designed to empower learners with a mastery of deep learning in PyTorch through an experimental and scientific approach. this course, available on Udemy https://www.udemy.com/course/deeplearning_x/?couponCode=ST8MT40924
 
 Notebooks :
+
 - Getting_started_pytorch_DUDL
 - GradientDescent_2D_DUDL
 - ANN_regression_DUDL : Implement a basic ANN block for regression, utilizing MSE as the loss function and SGD for optimization. Record the loss at each epoch and calculate the correlation coefficient for the final predictions.
